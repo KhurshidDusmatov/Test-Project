@@ -5,5 +5,6 @@ public class Laptop {
     private String model;
     private Double price;
     private String name;
+    private String color;
 }
 
