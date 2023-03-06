@@ -4,5 +4,6 @@ public class Laptop {
     private Integer id;
     private String model;
     private Double price;
+    private String name;
 }
 
